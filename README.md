@@ -8,10 +8,16 @@ actualmente cursando el décimo cuatrimestre — enfocado en desarrollo Full Sta
 
 ## 🙋 Sobre mí
 
-Me gusta resolver problemas reales con código: desde plataformas web completas hasta
-integraciones con dispositivos IoT y asistentes de voz. He participado en proyectos que
-cubren el ciclo completo — planeación con metodologías ágiles, desarrollo frontend/backend,
-bases de datos y despliegue — y sigo aprendiendo nuevas tecnologías constantemente.
+Mi proyecto académico más grande hasta ahora es **NU-B Studio**, una tienda en línea de
+arte de la Huasteca Hidalguense que desarrollé usando React en el frontend y Node.js con
+Express en el backend, sobre una base de datos PostgreSQL. Dentro del equipo me encargué
+del modelado de la base de datos, la construcción de la API REST y el sistema de
+autenticación con JWT. También integré buenas prácticas de seguridad: revisiones
+automáticas de código con **SonarCloud** dentro de **GitHub Actions**, registro de
+peticiones con **Morgan**, y sanitización/validación de datos en cada endpoint para
+evitar entradas maliciosas.
+
+📌 **Disponible para estadía profesional de enero a abril de 2027**
 
 ## 🧰 Stack y herramientas
 
