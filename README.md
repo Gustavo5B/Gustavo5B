@@ -36,7 +36,7 @@ actualmente cursando el décimo cuatrimestre — enfocado en desarrollo Full Sta
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **ALTAR — Nub Studio** ([Frontend](https://github.com/Gustavo5B/Nub_studio_front) · [Backend](https://github.com/Gustavo5B/Nub_studio_back)) | Plataforma web para galería de arte: exhibición y venta de obras, con vistas de público, cliente y artista | React, Node.js, PostgreSQL |
+| **ALTAR — Nub Studio** ([Frontend](https://github.com/Gustavo5B/Nub_studio_front) · [Backend](https://github.com/Gustavo5B/Nub_studio_back)) | Plataforma web para galería de arte: exhibición y venta de obras, con vistas de público, cliente, artista y panel de administración | React, Node.js, PostgreSQL |
 | **App de Evaluación de Actividades** | Proyecto de titulación (TSU) — aplicación móvil para la evaluación de actividades académicas | React Native (Expo) |
 | **Dispensador IoT para Mascotas** | Sistema web + móvil conectado a un dispositivo IoT para automatizar la alimentación de mascotas | React, Node.js, IoT |
 
