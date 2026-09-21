@@ -40,12 +40,6 @@ actualmente cursando el décimo cuatrimestre — enfocado en desarrollo Full Sta
 | **App de Evaluación de Actividades** | Proyecto de titulación (TSU) — aplicación móvil para la evaluación de actividades académicas | React Native (Expo) |
 | **Dispensador IoT para Mascotas** | Sistema web + móvil conectado a un dispositivo IoT para automatizar la alimentación de mascotas | React, Node.js, IoT |
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo5B&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo5B&layout=compact" />
-</p>
 
 ## 📫 Contacto
 
