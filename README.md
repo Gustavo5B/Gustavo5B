@@ -27,7 +27,7 @@ actualmente cursando el décimo cuatrimestre — enfocado en desarrollo Full Sta
 - JavaScript · Python · Java · C#
 
 **Bases de datos**
-- PostgreSQL · MySQL · MongoDB · Sql Server
+- PostgreSQL · MySQL · MongoDB · SQL Server
 
 **Móvil**
 - React Native (Expo Go)
@@ -36,10 +36,9 @@ actualmente cursando el décimo cuatrimestre — enfocado en desarrollo Full Sta
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **ALTAR — Nub Studio** ([Frontend](https://github.com/Gustavo5B/Nub_studio_front) · [Backend](https://github.com/Gustavo5B/Nub_studio_back)) | Plataforma web para galería de arte: exhibición y venta de obras, con vistas de público, cliente, artista y panel de administración | React, Node.js, PostgreSQL |
+| **ALTAR — Nub Studio** ([Demo](https://nub-studio-front.vercel.app/) · [Frontend](https://github.com/Gustavo5B/Nub_studio_front) · [Backend](https://github.com/Gustavo5B/Nub_studio_back)) | Plataforma web para galería de arte: exhibición y venta de obras, con vistas de público, cliente, artista y panel de administración | React, Node.js, PostgreSQL |
 | **App de Evaluación de Actividades** | Proyecto de titulación (TSU) — aplicación móvil para la evaluación de actividades académicas | React Native (Expo) |
 | **Dispensador IoT para Mascotas** | Sistema web + móvil conectado a un dispositivo IoT para automatizar la alimentación de mascotas | React, Node.js, IoT |
-
 
 ## 📫 Contacto
 
