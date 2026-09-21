@@ -6,39 +6,79 @@ Estudiante de Ingeniería en Desarrollo y Gestión de Software en la
 actualmente cursando el décimo cuatrimestre — enfocado en desarrollo Full Stack.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-</p>
+## 🙋 Sobre mí
+
+Me gusta resolver problemas reales con código: desde plataformas web completas hasta
+integraciones con dispositivos IoT y asistentes de voz. He participado en proyectos que
+cubren el ciclo completo — planeación con metodologías ágiles, desarrollo frontend/backend,
+bases de datos y despliegue — y sigo aprendiendo nuevas tecnologías constantemente.
 
 ## 🧰 Stack y herramientas
 
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cs" />
+
 **Frontend**
-- React
+
+<img src="https://skillicons.dev/icons?i=react,angular" />
 
 **Backend**
-- Node.js
 
-**Lenguajes**
-- JavaScript · Python · Java · C#
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+<img src="https://img.shields.io/badge/Uvicorn-2A308B?style=flat" />
 
 **Bases de datos**
-- PostgreSQL · MySQL · MongoDB · SQL Server
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white" />
+
+**Machine Learning** *(proyectos académicos)*
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+
+- Regresión y clasificación
 
 **Móvil**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+
 - React Native (Expo Go)
+- Kotlin (Android Studio)
+
+**Herramientas y DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat" />
+</p>
+
+**Metodologías de trabajo**
+
+<p>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat" />
+  <img src="https://img.shields.io/badge/Scrumban-4B8BBE?style=flat" />
+  <img src="https://img.shields.io/badge/Crystal%20Clear-9B59B6?style=flat" />
+</p>
 
 ## 💼 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **ALTAR — Nub Studio** ([Frontend](https://github.com/Gustavo5B/Nub_studio_front) · [Backend](https://github.com/Gustavo5B/Nub_studio_back)) | Plataforma web para galería de arte: exhibición y venta de obras, con vistas de público, cliente, artista y panel de administración | React, Node.js, PostgreSQL |
+| **ALTAR — Nub Studio** ([Demo](https://nub-studio-front.vercel.app/) · [Frontend](https://github.com/Gustavo5B/Nub_studio_front) · [Backend](https://github.com/Gustavo5B/Nub_studio_back)) | Plataforma web para galería de arte: exhibición y venta de obras, con vistas de público, cliente, artista y panel de administración | React, Node.js, PostgreSQL |
 | **App de Evaluación de Actividades** | Proyecto de titulación (TSU) — aplicación móvil para la evaluación de actividades académicas | React Native (Expo) |
 | **Dispensador IoT para Mascotas** | Sistema web + móvil conectado a un dispositivo IoT para automatizar la alimentación de mascotas | React, Node.js, IoT |
+
+## 🎓 Otros proyectos académicos
+
+- **Skill multimodal de Alexa** — gestión de agenda por voz, integrada conceptualmente con una plataforma web.
+- **Machine Learning** — ejercicios de regresión y clasificación con TensorFlow y scikit-learn.
+- Prácticas y ejercicios académicos adicionales en Java, C#, Kotlin y bases de datos relacionales.
 
 ## 📫 Contacto
 
