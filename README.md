@@ -27,7 +27,7 @@ actualmente cursando el décimo cuatrimestre — enfocado en desarrollo Full Sta
 - JavaScript · Python · Java · C#
 
 **Bases de datos**
-- PostgreSQL · MySQL · MongoDB
+- PostgreSQL · MySQL · MongoDB · Sql Server
 
 **Móvil**
 - React Native (Expo Go)
